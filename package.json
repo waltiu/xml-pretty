@@ -9,9 +9,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "element-plus": "^2.10.5",
+    "xml-pretty": "workspace:^",
+    "xml-pretty-vue": "^0.0.1",
+    "xml-resources": "workspace:^"
+  },
   "devDependencies": {
-        "typescript": "~5.8.3",
+    "typescript": "~5.8.3",
     "vite": "^7.0.4"
   }
 }

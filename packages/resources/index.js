@@ -1,0 +1,5 @@
+export * as standardXml from './xmls/standardXml'
+export * as popXml from './xmls/popXml'
+export * as svgXml from './xmls/svgXml'
+export * as hl7V3Xml from './xmls/hl7V3Xml'
+export * as errorXml from './xmls/errorXml'
