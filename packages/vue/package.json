@@ -1,5 +1,5 @@
 {
-  "name": "vue-xml-pretty",
+  "name": "xml-pretty-vue",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
@@ -13,8 +13,6 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.0",
     "@vue/tsconfig": "^0.7.0",
-    "typescript": "~5.8.3",
-    "vite": "^7.0.4",
     "vue-tsc": "^2.2.12"
   }
 }
